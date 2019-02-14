@@ -1,3 +1,3 @@
 # @rhgavriel/valOrMeow
 
-Turns val into meow.
+Sometimes turns val into meow.
