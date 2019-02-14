@@ -18,7 +18,7 @@ const valOrMeow = require("@rhgavriel/valOrMeow");
 
 valOrMeow("wow much cat");
 //=> "Mrrow"
-//=> ""wow much cat"
+//=> "wow much cat"
 
 valOrMeow(1337);
 //=> "Purr"
