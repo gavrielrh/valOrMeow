@@ -1,7 +1,7 @@
 # @rhgavriel/val-or-meow
 
-![https://www.npmjs.com/package/@rhgavriel/val-or-meow](https://img.shields.io/npm/v/@rhgavriel/val-or-meow.svg?style=flat)
-![https://www.npmjs.com/package/@rhgavriel/val-or-meow](https://img.shields.io/bundlephobia/min/@rhgavriel/val-or-meow.svg?style=flat)
+[![npm (scoped)](https://img.shields.io/npm/v/@rhgavriel/val-or-meow.svg?style=flat)](https://www.npmjs.com/package/@rhgavriel/val-or-meow)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@rhgavriel/val-or-meow.svg?style=flat)](https://www.npmjs.com/package/@rhgavriel/val-or-meow)
 
 Sometimes turns val into meow.
 
