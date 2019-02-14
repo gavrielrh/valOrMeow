@@ -1,4 +1,4 @@
-module.exports = function valToMeow(val) {
+module.exports = function valOrMeow(val) {
   const says = [
     'Meow',
     'Nya',
