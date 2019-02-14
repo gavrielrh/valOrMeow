@@ -1,4 +1,17 @@
 {
   "name": "@rhgavriel/valToMeow",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Turns the given value into a cat sound 50% of the time",
+  "license": "MIT",
+  "repository": "gavrielrh/valToMeow",
+  "main": "index.js",
+  "keywords": [
+    "cat",
+    "meow"
+    "random",
+    "npm",
+    "package",
+    "rhgavriel",
+    "gavrielrh"
+  ]
 }
