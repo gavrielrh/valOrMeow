@@ -1,9 +1,9 @@
 {
-  "name": "@rhgavriel/valToMeow",
+  "name": "@rhgavriel/valOrMeow",
   "version": "1.0.0",
   "description": "Turns the given value into a cat sound 50% of the time",
   "license": "MIT",
-  "repository": "gavrielrh/valToMeow",
+  "repository": "gavrielrh/valOrMeow",
   "main": "index.js",
   "keywords": [
     "cat",
