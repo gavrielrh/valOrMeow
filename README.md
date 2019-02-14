@@ -1,3 +1,3 @@
-#@rhgavriel/valToMeow
+#@rhgavriel/valOrMeow
 
 Turns val into meow.
